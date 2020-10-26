@@ -1,2 +1,5 @@
-
+data
+logs
+models
+.idea
 notebooks/.ipynb_checkpoints/prototype-checkpoint.ipynb
